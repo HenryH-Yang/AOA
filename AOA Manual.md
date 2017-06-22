@@ -38,6 +38,13 @@ Here is an example list:
 | Custom Field | Co-Term | Invoice Details |
 | Language Translation | Japanese | |
 
+
+| First Header  | API name<br>(required) |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 ## Start adding the component
 Steps:
 1. Open the AOA.exe
@@ -54,7 +61,3 @@ Steps:
 ![enter image description here](http://i.imgur.com/OqJVwus.png "Check items")
 ![enter image description here](http://i.imgur.com/sHAAp5a.png "log.txt")
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
