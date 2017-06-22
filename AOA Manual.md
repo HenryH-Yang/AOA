@@ -27,8 +27,10 @@ But it might be changed after refresh.
 You can follow the format of the CSV file(Component List.csv)
 Here is an example list:
 | Component Type<br>(required) | API name<br>(required)	| Object<br>(if need) |
-| ---------------------------- | ---------------------- | ------------------- |
-| Page Layout                  | TS Contact Page Layout |             Contact |
+| --- | --- | --- |
+| Page Layout | TS Contact Page Layout | Contact |
+
+
 | Page Layout | TS Contact Page Layout w MSI | Contact |
 | Static Resource | ideas | |
 | Static Resource | ideasRAW | |
