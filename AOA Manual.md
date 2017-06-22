@@ -30,8 +30,6 @@ Here is an example list:
 | Component Type<br>(required) | API name<br>(required)	| Object<br>(if need) |
 | --- | --- | --- |
 | Page Layout | TS Contact Page Layout | Contact |
-
-
 | Page Layout | TS Contact Page Layout w MSI | Contact |
 | Static Resource | ideas | |
 | Static Resource | ideasRAW | |
@@ -41,11 +39,6 @@ Here is an example list:
 | Custom Field | Co-Term | Invoice Details |
 | Language Translation | Japanese | |
 
-
-| First Header  | API name<br>(required) |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 ## Start adding the component
