@@ -28,15 +28,15 @@ You can follow the format of the CSV file(Component List.csv)
 Here is an example list:
 | Component Type<br>(required) | API name<br>(required)	| Object<br>(if need) |
 | ------------- | --------- | ---- |
-|Page Layout|TS Contact Page Layout|Contact|
-|Page Layout|TS Contact Page Layout w MSI|Contact|
-|Static Resource|ideas||
-|Static Resource|ideasRAW||
-|Workflow Rule|TS Open Case Age > 30 Days||
-|Workflow Email Alert|TS Open Case Age > 30 Day||
-|Custom Field|AC_SN|Invoice Details|
-|Custom Field|Co-Term|Invoice Details|
-|Language Translation|Japanese||
+| Page Layout | TS Contact Page Layout | Contact |
+| Page Layout | TS Contact Page Layout w MSI | Contact |
+| Static Resource | ideas | |
+| Static Resource | ideasRAW | |
+| Workflow Rule | TS Open Case Age > 30 Days | |
+| Workflow Email Alert | TS Open Case Age > 30 Day | |
+| Custom Field | AC_SN | Invoice Details |
+| Custom Field | Co-Term | Invoice Details |
+| Language Translation | Japanese | |
 
 ## Start adding the component
 Steps:
