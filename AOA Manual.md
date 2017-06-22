@@ -53,3 +53,8 @@ Steps:
 7. Check the items when AOA finish. You also can review the log.txt for detail.
 ![enter image description here](http://i.imgur.com/OqJVwus.png "Check items")
 ![enter image description here](http://i.imgur.com/sHAAp5a.png "log.txt")
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
