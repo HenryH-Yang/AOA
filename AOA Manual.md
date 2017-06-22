@@ -1,16 +1,16 @@
 
-#AOA Manual<br>－<b>A</b>dd <b>O</b>utbound change sets <b>A</b>utomatically 
+# AOA Manual<br>－<b>A</b>dd <b>O</b>utbound change sets <b>A</b>utomatically 
 
 [toc]
 
-##Intorduction
+## Intorduction
 You may have suffered from adding hundreds components one by one before each deployment. It's an extremely boring stuff. It's very simple but takes time, so this task is very suitable for automation by programming. That's why I developed this simple tool.
 
 
-##Download AOA
-###[Download from Google Drive](https://goo.gl/PDyzNw)
+## Download AOA
+### [Download from Google Drive](https://goo.gl/PDyzNw)
 
-##Before starting creating *outbound change set*
+## Before starting creating *outbound change set*
 1. Check if the *AOA* folder contains
 	* AOA.exe
 	* AOAconfig.ini
@@ -38,7 +38,7 @@ Here is an example list:
 |Custom Field|Co-Term|Invoice Details|
 |Language Translation|Japanese||
 
-##Start adding the component
+## Start adding the component
 Steps:
 1. Open the AOA.exe
 ![enter image description here](http://i.imgur.com/C7ghIIz.png)
